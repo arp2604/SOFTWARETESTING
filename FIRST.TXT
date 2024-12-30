@@ -1,0 +1,14 @@
+package storage;
+
+public class first {
+	 static int age=10;
+	 static String name="NIT";
+	 static int id =513;
+	public static void main(String[] args) {
+		 first global = new first();
+		 System.out.println(age);
+		 System.out.println(name);
+		 System.out.println(id);
+	}
+
+}
